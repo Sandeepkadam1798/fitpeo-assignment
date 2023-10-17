@@ -1,7 +1,7 @@
 import React from 'react'
 import { RiArrowDropDownLine} from "react-icons/ri"
 import { AiOutlineSearch} from "react-icons/ai"
-import pic from "../public/perpic.jpeg"
+import pic from "../public/nature.png"
 import Image from 'next/image'
 
 const List = () => {
